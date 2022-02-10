@@ -12,13 +12,13 @@ print('pass')
 else: 
 print('fail')
 OUTPUT:
-enter student number55 
-enter student namesai 
+enter student number72
+enter student namedivya
 enter student groupmscs 
 enter maths marks45 
-enter statistics marks47 
+enter statistics marks50
 enter computer science marks48 
 enter telugu marks49 
 enter english marks50 
-enter online business marks30 
+enter online business marks35
 pass
